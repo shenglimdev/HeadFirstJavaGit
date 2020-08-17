@@ -1,0 +1,18 @@
+boolean and char{
+    boolean: true or false
+    char: 16bits 0 to 65535
+}
+
+numeric{
+    integer{
+        byte: 8bits -128 to 127
+        short: 16bits -32768 to 32767
+        int: 32bits -2147183648 to 2147483647
+        long: 64bits -huge to huge (as mentioned in the book)
+    }
+
+    floating point{
+        float: 32bits varies
+        double: 64bits varies
+    }
+}
