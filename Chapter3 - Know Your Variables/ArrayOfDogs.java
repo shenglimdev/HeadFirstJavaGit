@@ -1,4 +1,5 @@
 class Dog {
+    int size;
     String name;
     public Dog(){
 
